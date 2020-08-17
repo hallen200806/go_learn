@@ -1,1 +1,9 @@
-package go_learn
+package main
+
+import "fmt"
+
+func main()  {
+	
+	fmt.Println("test")
+	
+}
