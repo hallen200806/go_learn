@@ -8,6 +8,8 @@ type Dog struct {
 	Age int
 }
 
+
+
 func test_struct()  {
 	// 初始化1
 	var dog Dog
